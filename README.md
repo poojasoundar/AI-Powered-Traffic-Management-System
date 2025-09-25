@@ -37,14 +37,7 @@ Pygame
 
 Custom email module (mail.py) – Email alerts
 
-📂 Project Structure
-.
-├── best.pt              # Trained YOLO model
-├── mail.py              # Email sending script
-├── sound.mp3            # Alert sound
-├── main.py              # Main detection script
-├── output_video.mp4     # Saved detection video (auto-generated)
-└── README.md
+
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repo
